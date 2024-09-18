@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1726667320 source:c:\users\nicol\onedrive\desktop\developer\c++\repaso\main.cpp
+	<stdio.h>
+	"arreglo_tope.h"
+
+1726664988 c:\users\nicol\onedrive\desktop\developer\c++\repaso\alumno.h
+	<stdio.h>
+	"string.h"
+	"fecha.h"
+	"fecha.h"
+	"carrera.h"
+	"boolean.h"
+
+1726664805 c:\users\nicol\onedrive\desktop\developer\c++\repaso\string.h
+	<stdio.h>
+
+1726627859 c:\users\nicol\onedrive\desktop\developer\c++\repaso\fecha.h
+	<stdio.h>
+
+1726628598 c:\users\nicol\onedrive\desktop\developer\c++\repaso\carrera.h
+	<stdio.h>
+
+1726630256 c:\users\nicol\onedrive\desktop\developer\c++\repaso\boolean.h
+	<stdio.h>
+
+1726669082 source:c:\users\nicol\onedrive\desktop\developer\c++\repaso\alumno.cpp
+	"alumno.h"
+
+1726665203 source:c:\users\nicol\onedrive\desktop\developer\c++\repaso\string.cpp
+	"string.h"
+
+1726629206 source:c:\users\nicol\onedrive\desktop\developer\c++\repaso\fecha.cpp
+	"fecha.h"
+
+1726669082 source:c:\users\nicol\onedrive\desktop\developer\c++\repaso\boolean.cpp
+	"boolean.h"
+
+1726630410 source:c:\users\nicol\onedrive\desktop\developer\c++\repaso\carrera.cpp
+	"carrera.h"
+
+1726669082 source:c:\users\nicol\onedrive\desktop\developer\c++\repaso\arreglo_tope.cpp
+	"arreglo_tope.h"
+
+1726669082 c:\users\nicol\onedrive\desktop\developer\c++\repaso\arreglo_tope.h
+	<stdio.h>
+	"alumno.h"
+
